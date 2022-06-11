@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family: Arial,sans-serif;
+}
+.title {
+     font-family: 		Courier New,Monospace;
+         text-align: center;
+      padding-left: 10px;
+
+     font-size: 20px;
+}
+.title1 {
+     font-family: 	Lucida Handwriting,	Cursive;
+         text-align: center;
+      padding-left: 10px;
+
+     font-size: 10px;
+}
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+a:link {
+  text-decoration: none;
+     font-family: Georgia,serif,
+}
+
+.text{
+    
+}
+a:visited {
+  text-decoration: none;
+     font-family: Georgia,serif,
+}
+
+a:hover {
+  text-decoration: underline;
+     font-family: Georgia,serif,
+}
+
+a:active {
+  text-decoration: underline;
+}
+/* mouse over link */
+
+.center {
+  margin: auto;
+  width: 60%;
+  
+  padding: 10px;
+}
+.subtitle {
+     font-family: Georgia,serif,
+         text-align: center;
+      padding-left: 160px;
+    
+     font-size: 20px;
+}
